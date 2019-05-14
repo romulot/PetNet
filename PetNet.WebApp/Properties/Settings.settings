@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="PetNet.WebApp.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="PostWebApiBaseURI" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://petnetpostwebapi4.azurewebsites.net</Value>
+    </Setting>
+    <Setting Name="ProfileWebApiBaseURI" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://petnetprofilewebapi4.azurewebsites.net</Value>
+    </Setting>
+    <Setting Name="WebApiBaseURI" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://petnetwebapp04.azurewebsites.net</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
